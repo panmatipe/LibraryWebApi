@@ -1,0 +1,15 @@
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\bin\Debug\net8.0\Library.Domain.deps.json
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\bin\Debug\net8.0\Library.Domain.dll
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\bin\Debug\net8.0\Library.Domain.pdb
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\bin\Debug\net8.0\Library.Common.dll
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\bin\Debug\net8.0\Library.Common.pdb
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library.Domain.csproj.AssemblyReference.cache
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library.Domain.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library..F93CCB0A.Up2Date
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library.Domain.dll
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\refint\Library.Domain.dll
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\Library.Domain.pdb
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Domain\obj\Debug\net8.0\ref\Library.Domain.dll

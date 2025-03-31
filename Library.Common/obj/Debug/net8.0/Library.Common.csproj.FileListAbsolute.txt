@@ -1,0 +1,11 @@
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\bin\Debug\net8.0\Library.Common.deps.json
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\bin\Debug\net8.0\Library.Common.dll
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\bin\Debug\net8.0\Library.Common.pdb
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\Library.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\Library.Common.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\Library.Common.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\Library.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\Library.Common.dll
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\refint\Library.Common.dll
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\Library.Common.pdb
+C:\Users\Mateusz\source\repos\LibraryWebApi\Library.Common\obj\Debug\net8.0\ref\Library.Common.dll

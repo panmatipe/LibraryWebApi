@@ -1,0 +1,674 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\migrations\\20250331030254_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\migrations\\20250331030254_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\dtos\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dtos\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\dtos\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dtos\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\middlewares\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD422DE-E85E-41AE-A2CE-E471C619DAFD}|Library.Common\\Library.Common.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.common\\paginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD422DE-E85E-41AE-A2CE-E471C619DAFD}|Library.Common\\Library.Common.csproj|solutionrelative:library.common\\paginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\seeders\\initialseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\seeders\\initialseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\migrations\\bookscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\migrations\\bookscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\validators\\paginationqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\validators\\paginationqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\validators\\updatebookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\validators\\updatebookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\services\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\services\\ibooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.domain\\repositories\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\repositories\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\exceptions\\itemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\exceptions\\itemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD422DE-E85E-41AE-A2CE-E471C619DAFD}|Library.Common\\Library.Common.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.common\\enums\\bookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD422DE-E85E-41AE-A2CE-E471C619DAFD}|Library.Common\\Library.Common.csproj|solutionrelative:library.common\\enums\\bookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\library.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\library.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\validators\\addbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\validators\\addbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\dtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.domain\\library.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\library.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C37D9F6-9ECB-4B29-B9E1-0273CA6B5FC8}|Library.Application\\Library.Application.csproj|solutionrelative:library.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2763642D-801F-4A25-BF4C-5A808C68B505}|Library.Domain\\Library.Domain.csproj|solutionrelative:library.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\library.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\library.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\seeders\\iinitialseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\seeders\\iinitialseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.infrastructure\\library.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F9732F3-E898-4333-9C95-85F08D4F6C70}|Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:library.infrastructure\\library.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82D4389E-141E-43C8-A267-CB0FE361D3B6}|Library.API\\Library.API.csproj|solutionrelative:library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD422DE-E85E-41AE-A2CE-E471C619DAFD}|Library.Common\\Library.Common.csproj|c:\\users\\mateusz\\source\\repos\\librarywebapi\\library.common\\library.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AD422DE-E85E-41AE-A2CE-E471C619DAFD}|Library.Common\\Library.Common.csproj|solutionrelative:library.common\\library.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Migrations\\BooksContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Migrations\\BooksContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Migrations\\BooksContextModelSnapshot.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Migrations\\BooksContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:03:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250331030254_InitDb.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Migrations\\20250331030254_InitDb.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Migrations\\20250331030254_InitDb.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Migrations\\20250331030254_InitDb.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Migrations\\20250331030254_InitDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:02:55.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaginationQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Validators\\PaginationQueryValidator.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Validators\\PaginationQueryValidator.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Validators\\PaginationQueryValidator.cs",
+              "RelativeToolTip": "Library.Application\\Validators\\PaginationQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:35:45.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Common\\PaginationQuery.cs",
+              "RelativeDocumentMoniker": "Library.Common\\PaginationQuery.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Common\\PaginationQuery.cs",
+              "RelativeToolTip": "Library.Common\\PaginationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:25:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Validators\\UpdateBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Validators\\UpdateBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Validators\\UpdateBookDtoValidator.cs",
+              "RelativeToolTip": "Library.Application\\Validators\\UpdateBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:06:24.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ItemAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Exceptions\\ItemAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Exceptions\\ItemAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Exceptions\\ItemAlreadyExistsException.cs",
+              "RelativeToolTip": "Library.Application\\Exceptions\\ItemAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:39:38.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Library.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:37:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Library.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Library.API\\Middlewares\\GlobalErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:17:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Dtos\\UpdateBookDto.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\UpdateBookDto.cs",
+              "RelativeToolTip": "Library.Application\\Dtos\\UpdateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:40:24.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Validators\\AddBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Validators\\AddBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Validators\\AddBookDtoValidator.cs",
+              "RelativeToolTip": "Library.Application\\Validators\\AddBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:41:32.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\AddBookDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Dtos\\AddBookDto.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\AddBookDto.cs",
+              "RelativeToolTip": "Library.Application\\Dtos\\AddBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:05:00.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\Profiles\\AuthorProfile.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Dtos\\Profiles\\AuthorProfile.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\Profiles\\AuthorProfile.cs",
+              "RelativeToolTip": "Library.Application\\Dtos\\Profiles\\AuthorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:37:21.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\Profiles\\BookProfile.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Dtos\\Profiles\\BookProfile.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\Profiles\\BookProfile.cs",
+              "RelativeToolTip": "Library.Application\\Dtos\\Profiles\\BookProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:23:12.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Dtos\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\AuthorDto.cs",
+              "RelativeToolTip": "Library.Application\\Dtos\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:43:18.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Dtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Dtos\\BookDto.cs",
+              "RelativeToolTip": "Library.Application\\Dtos\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:42:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Library.Application",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Library.Application.csproj",
+              "RelativeDocumentMoniker": "Library.Application\\Library.Application.csproj",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Library.Application.csproj",
+              "RelativeToolTip": "Library.Application\\Library.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T14:34:45.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Library.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:35:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Services\\IBooksService.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Services\\IBooksService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Services\\IBooksService.cs",
+              "RelativeToolTip": "Library.Application\\Services\\IBooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:33:48.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Repositories\\BooksRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:52:22.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Repositories\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\Repositories\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Repositories\\IBooksRepository.cs",
+              "RelativeToolTip": "Library.Domain\\Repositories\\IBooksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:47:50.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "Library.Application\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Application\\Services\\BooksService.cs",
+              "RelativeToolTip": "Library.Application\\Services\\BooksService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAtwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:34:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Library.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Library.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:11:37.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IInitialSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Seeders\\IInitialSeeder.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Seeders\\IInitialSeeder.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Seeders\\IInitialSeeder.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Seeders\\IInitialSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:30:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InitialSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Seeders\\InitialSeeder.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Seeders\\InitialSeeder.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Seeders\\InitialSeeder.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Seeders\\InitialSeeder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:20:56.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Library.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\appsettings.Development.json",
+              "RelativeToolTip": "Library.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T07:25:28.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Library.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:50:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "Library.Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:38:59.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\BooksContext.cs",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\BooksContext.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\BooksContext.cs",
+              "RelativeToolTip": "Library.Infrastructure\\BooksContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:58:17.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Library.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Common\\Library.Common.csproj",
+              "RelativeDocumentMoniker": "Library.Common\\Library.Common.csproj",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Common\\Library.Common.csproj",
+              "RelativeToolTip": "Library.Common\\Library.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T17:54:17.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Common\\Enums\\BookStatus.cs",
+              "RelativeDocumentMoniker": "Library.Common\\Enums\\BookStatus.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Common\\Enums\\BookStatus.cs",
+              "RelativeToolTip": "Library.Common\\Enums\\BookStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:54:43.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Library.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "Library.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:59:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Library.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Library.Domain.csproj",
+              "RelativeDocumentMoniker": "Library.Domain\\Library.Domain.csproj",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Domain\\Library.Domain.csproj",
+              "RelativeToolTip": "Library.Domain\\Library.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T16:58:05.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Library.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Library.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Library.Infrastructure\\Library.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.Infrastructure\\Library.Infrastructure.csproj",
+              "RelativeToolTip": "Library.Infrastructure\\Library.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T16:29:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Program.cs",
+              "RelativeDocumentMoniker": "Library.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Program.cs",
+              "RelativeToolTip": "Library.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:56:10.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Library.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Library.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T10:51:49.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Library.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\appsettings.json",
+              "RelativeToolTip": "Library.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T10:51:41.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Library.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Library.API.csproj",
+              "RelativeDocumentMoniker": "Library.API\\Library.API.csproj",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Library.API.csproj",
+              "RelativeToolTip": "Library.API\\Library.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T10:48:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Library.API.http",
+              "DocumentMoniker": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Library.API.http",
+              "RelativeDocumentMoniker": "Library.API\\Library.API.http",
+              "ToolTip": "C:\\Users\\Mateusz\\source\\repos\\LibraryWebApi\\Library.API\\Library.API.http",
+              "RelativeToolTip": "Library.API\\Library.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-29T10:47:50.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

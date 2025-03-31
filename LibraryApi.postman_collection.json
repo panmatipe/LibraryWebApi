@@ -1,0 +1,182 @@
+{
+	"info": {
+		"_postman_id": "c6f31970-78ed-4985-9933-5d298dc5668d",
+		"name": "LibraryApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4150982"
+	},
+	"item": [
+		{
+			"name": "GetAll",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:7085/api/books?pageSize=5&PageNumber=1&SortBy=FirstName&IsDescending=false",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7085",
+					"path": [
+						"api",
+						"books"
+					],
+					"query": [
+						{
+							"key": "pageSize",
+							"value": "5"
+						},
+						{
+							"key": "PageNumber",
+							"value": "1"
+						},
+						{
+							"key": "SortBy",
+							"value": "FirstName"
+						},
+						{
+							"key": "IsDescending",
+							"value": "false"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7085/api/books/:id",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7085",
+					"path": [
+						"api",
+						"books",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"New Book\",\r\n  \"isbn\": \"978-1-56619-101-1\",\r\n  \"authorFirstName\": \"Ben\",\r\n  \"authorLastName\": \"White\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7085/api/books",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7085",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 1,\r\n    \"title\": \"C# Fundamentals\",\r\n    \"isbn\": \"978-1-56619-001-4\",\r\n    \"status\": 1,\r\n    \"authorId\": 1,\r\n    \"authorFirstName\": \"John\",\r\n    \"authorLastName\": \"Doe\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7085/api/books/:id",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7085",
+					"path": [
+						"api",
+						"books",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Greatest Book, part 2\",\r\n  \"isbn\": \"ISBN-123456789\",\r\n  \"authorId\": 1,\r\n  \"authorFirstName\": \"fn\",\r\n  \"authorLastName\": \"ln\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7085/api/books/:id",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7085",
+					"path": [
+						"api",
+						"books",
+						":id"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": null
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
